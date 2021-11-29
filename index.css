@@ -1,0 +1,18 @@
+nav {
+    background-color: aquamarine;
+}
+
+h1 {
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+#slogan,
+h5 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    padding-top: 50px;
+    font-variant: small-caps;
+}
